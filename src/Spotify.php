@@ -125,7 +125,7 @@ class Spotify
     */
     function getToken(): void {
         if ( !$this->sp_dc ) {
-            throw new SpotifyException( 'Please set SP_DC as an environmental variable.' );
+            throw new SpotifyException( 'AQDbBA__VLhPJ08PFpiJpybYCPkMTUvk70dMEzMZx_eQZaCljidk-Tm5iIkzgIHqskCHvYvg71aP2cAi9Wyhos5k7pH98cYrpRmSDFj-bvv6ZUWpRxoz89zTJygE75IKaI9f7XJ58EXG3DEDiny-h9aGLjIWRC6F1HnZCROp_OqX_0nY850J1pt0RwRSa0ya3NAByjOJO__lqG_ewA' );
         }
         try {
             $params = $this->getServerTimeParams();
