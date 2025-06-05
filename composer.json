@@ -1,5 +1,5 @@
 {
-    "name": "akashrchandran/spotify-lyrics-api",
+    "name": "nugnehs/spotify-lyrics-api-main",
     "description": "A Rest API for fetching lyrics from Spotify which is powered by Musixmatch.",
     "type": "library",
     "require": {
@@ -15,8 +15,8 @@
     },
     "authors": [
         {
-            "name": "Akash R Chandran",
-            "email": "chandranrakash@gmail.com"
+            "name": "Nugnehs",
+            "email": "nugnehs@gmail.com"
         }
     ]
 }
